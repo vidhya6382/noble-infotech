@@ -8,7 +8,7 @@ import GetStartedProvider from "@/components/GetStartedModel";
 export const metadata = {
   title: "Noble Infotech | Digital Marketing, Meta Ads, Websites in Tenkasi",
   description:
-    "Noble Infotech builds fast websites, SEO and digital marketing for businesses in Chennai. Contact us for your project.",
+    "Noble Infotech builds fast websites, SEO and digital marketing for businesses in Tenkasi. Contact us for your project.",
   keywords: [
     "Noble Infotech",
     "software company Tenkasi",
