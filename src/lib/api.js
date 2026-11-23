@@ -29,7 +29,6 @@ async function request(path, options = {}) {
 
 /* ---------------- Content (read) ---------------- */
 
-// விரும்பும் வரிசை (service id-கள்)
 const SERVICE_ORDER = [
   "reels-creative-design",
   "digital-marketing",
@@ -43,7 +42,7 @@ const SERVICE_ORDER = [
 function sortServices(list) {
   const pos = (s) => {
     const i = SERVICE_ORDER.indexOf(s.id);
-    return i === -1 ? 999 : i; // பட்டியலில் இல்லாதவை கடைசியில்
+    return i === -1 ? 999 : i; 
   };
   return [...list].sort((a, b) => pos(a) - pos(b));
 }

@@ -6,7 +6,7 @@ import WhatsAppButton from "@/components/WhatsAppButton";
 import GetStartedProvider from "@/components/GetStartedModel";
 
 export const metadata = {
-  title: "Noble Infotech | Web Development Company in Tenkasi",
+  title: "Noble Infotech | Digital Marketing, Meta Ads, Websites in Tenkasi",
   description:
     "Noble Infotech builds fast websites, SEO and digital marketing for businesses in Chennai. Contact us for your project.",
   keywords: [

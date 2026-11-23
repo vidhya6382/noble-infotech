@@ -76,8 +76,6 @@ export const values = [
   { icon: "TrendingUp", title: "Keep Improving", text: "We learn the latest tools and platforms so your business stays ahead." },
 ];
 
-// Departments shown in the "Our Team" section.
-// To show real people instead, add { name, role, image } items and update the About page.
 export const team = [
   {
     icon: "Code2",

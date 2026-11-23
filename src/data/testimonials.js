@@ -1,9 +1,3 @@
-// TESTIMONIALS — SAMPLE REVIEWS.
-// These are placeholders so the design can be seen. Each has `isSample: true`,
-// which shows a "Sample review" label. Replace them with real feedback from your
-// clients (with their permission) and set isSample to false before going live.
-// Later this list can come from the API (src/lib/api.js → getTestimonials).
-
 const testimonials = [
   {
     id: 1,
